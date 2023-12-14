@@ -1,0 +1,12 @@
+{
+  "name": "@javeedambu/publish-package",
+  "version": "1.0.0",
+  "description": "deploying sample package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javeedambu/publish-package.git"
+  },
+  "author": "javeedambu",
+  "homepage": "https://github.com/javeedambu/publish-package#readme"
+}
+
