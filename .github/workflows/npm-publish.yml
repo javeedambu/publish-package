@@ -1,6 +1,6 @@
 name: "publish npm"
 
-on: workflow_dispatch
+on: push
 
 jobs:
   publish:
