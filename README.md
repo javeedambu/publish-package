@@ -1,1 +1,1 @@
-publish package
+publish npm package
